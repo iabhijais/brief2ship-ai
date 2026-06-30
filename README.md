@@ -4,6 +4,8 @@
 
 > Stop guessing what to build. Paste any hackathon or assignment brief and get a clear MVP scope, sprint plan, risk score, and submission kit before your deadline kills the project.
 
+**🔗 Live app: [brief2ship-ai.vercel.app](https://brief2ship-ai.vercel.app)**
+
 Built for **Vibe2Ship**, a national-level solo online vibe-coding hackathon by **Coding Ninjas 10X Club** in collaboration with **Google for Developers**.
 
 ---
